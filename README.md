@@ -16,6 +16,7 @@ This is a fresh profile where I will be sharing my project and learnings as I go
 ---
 ### 🚀 Currently Exploring
 - Networking Foundations
+- Intermediate Linux
 
 
 

@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Ella! 👋
+#### 🌍 About Me
+- Computer Science graduate from York St John University
+- Passionate about anything cybersecurity
+- Working on building hands-on cybersecurity experience through projects and labs
 
-<!--
-**EllaMWiertz/EllaMWiertz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a fresh profile where I will be sharing my project and learnings as I go.
 
-Here are some ideas to get you started:
+---
+### 💻 Tools & Languages
+![python](https://www.readmecodegen.com/api/social-icon?name=python&size=56)
+![php](https://www.readmecodegen.com/api/social-icon?name=php&size=56)
+![html5](https://www.readmecodegen.com/api/social-icon?name=html5&size=56)
+![css3](https://www.readmecodegen.com/api/social-icon?name=css3&size=56)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🚀 Currently Exploring
+- Networking Foundations
+
+
+
+
